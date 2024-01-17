@@ -9,3 +9,9 @@
 🇺🇸: The PlaygroundApp was developed using SwiftUI, along with other frameworks such as SpriteKit for interactions and animations, and AVFoundation for sounds. Some assets were downloaded under a free licence and edited (with the GIMP software), others were made by me in Figma. All sounds were created by me using GarageBand.
 
 🇧🇷: O PlaygroundApp foi desenvolvido usando SwiftUI, junto de outros frameworks, como: SpriteKit para interações e animações e AVFoundation para os sons. Alguns assets foram baixados e editados (com o software GIMP) com licença de uso gratuito e outros foram feitos por mim no Figma. Todos os sons foram feito por mim no GarageBand.
+
+## Screenshots
+
+<img src="https://github.com/iagoramoss/LearNotes/assets/72955670/80d24d92-a35a-4447-baad-019f3c097554" width="200">
+<img src="https://github.com/iagoramoss/LearNotes/assets/72955670/959d56f1-7bb8-44e2-9951-7a16ffcfccc4" width="200">
+<img src="https://github.com/iagoramoss/LearNotes/assets/72955670/fab00ed1-e7b0-4520-9aac-e9757d31e66f" width="200">
